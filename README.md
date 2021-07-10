@@ -1,3 +1,3 @@
 # RTOS-
 school project
-Real Time Operating Systems  microOS/II basic concepts learning
+Real Time Operating Systems  microC/OSII basic concepts learning
